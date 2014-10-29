@@ -1,4 +1,4 @@
-\\This is the main thing where it creates the window from the Window class.
+//This is the main thing where it creates the window from the Window class.
 
 public class Main {
 
@@ -13,7 +13,7 @@ public class Main {
 
 
 
-\\This is the window class that makes the window that I want to put the background in
+//This is the window class that makes the window that I want to put the background in
 
 public class Window extends JFrame{
 	
@@ -43,7 +43,7 @@ public class Window extends JFrame{
 }
 
 
-\\This is the class that loads the image and calls the repaint method
+//This is the class that loads the image and calls the repaint method
 
 
 public class Sprites extends JPanel {
